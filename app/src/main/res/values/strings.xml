@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">#Chat</string>
+    <string name="login_user">user</string>
+    <string name="login_pass">password</string>
+    <string name="login_email">email</string>
+    <string name="login_btn">LOGIN</string>
+    <string name="register_btn">REGISTER</string>
+    <string name="sign_in">Not a member? Sign up now.</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
